@@ -30,5 +30,6 @@ Welcome to the **Chessboard Application**! This Android app is designed to provi
 
 ## 🌐 Resources
 
+- https://github.com/Priyanka26211/ChessBoard
 - [Android Developers Documentation](https://developer.android.com/)
 - [Guide on Creating a Chessboard in Android](https://developer.android.com/guide/topics/ui/custom-components)
